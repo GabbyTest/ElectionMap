@@ -1,11 +1,13 @@
 # ElectionMap
 CNA election map
 
-## 資料夾說明
+## Floder
 
 ### api
 
+```
 六都地圖的json
+```
 
 ### js
 dataMap.js -> 地圖主要的js
