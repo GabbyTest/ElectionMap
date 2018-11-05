@@ -1,7 +1,7 @@
 # ElectionMap
 CNA election map
 
-## Floder
+## Folder & File
 
 ### api
 
